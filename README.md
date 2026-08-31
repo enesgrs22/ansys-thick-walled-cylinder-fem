@@ -51,6 +51,19 @@ The radial displacement shows almost exact agreement with the
 analytical solution, while the radial stress difference at the
 inner boundary is approximately 2.8%.
 
+## IMAGES
+<img width="860" height="970" alt="image" src="https://github.com/user-attachments/assets/49be77d6-9cb4-4e51-a8cc-ae7c4baf2a71" />
+<img width="811" height="604" alt="image" src="https://github.com/user-attachments/assets/30af0791-61a6-4e64-aa49-7fa1cc254ee8" />
+<img width="844" height="639" alt="image" src="https://github.com/user-attachments/assets/ac7a76b4-dde7-4f4b-a873-8496513059a5" />
+<img width="788" height="592" alt="image" src="https://github.com/user-attachments/assets/0d2b25af-b506-4b73-a289-d768981477f1" />
+<img width="731" height="664" alt="image" src="https://github.com/user-attachments/assets/23a221d7-f474-4cd9-adca-e7ddbccfa7c1" />
+<img width="664" height="610" alt="image" src="https://github.com/user-attachments/assets/552847d4-a6d2-49f8-81b7-28d93b5e88b5" />
+<img width="658" height="604" alt="image" src="https://github.com/user-attachments/assets/7cdbbdd8-3592-4187-9040-df7212799b95" />
+<img width="720" height="439" alt="image" src="https://github.com/user-attachments/assets/d5608bb4-d329-4a13-9f3d-455223f741e7" />
+<img width="722" height="441" alt="image" src="https://github.com/user-attachments/assets/db371a24-7184-4740-80dd-952c63d46372" />
+<img width="715" height="443" alt="image" src="https://github.com/user-attachments/assets/ab0c5e76-d91d-4b69-8271-0ecc7ba12d30" />
+<img width="731" height="447" alt="image" src="https://github.com/user-attachments/assets/4318371e-da3d-48b5-8f13-6fff5d04904d" />
+
 ## Tools
 
 - ANSYS Mechanical APDL
